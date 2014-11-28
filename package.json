@@ -14,5 +14,6 @@
   "dependencies": {
     "jquery": "latest",
     "bootstrap": "latest"
-  }
+  },
+  "files": ["scripts"]
 }
