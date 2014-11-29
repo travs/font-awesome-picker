@@ -13,7 +13,9 @@
   },
   "dependencies": {
     "jquery": "latest",
-    "bootstrap": "latest"
+    "bootstrap": "latest",
+    "loophole": "1.x.x",
+    "temp": "0.8.x"
   },
   "files": ["scripts"]
 }
