@@ -15,7 +15,7 @@
     "jquery": "latest",
     "bootstrap": "latest",
     "loophole": "1.x.x",
-    "temp": "0.8.x"
-  },
-  "files": ["scripts"]
+    "temp": "0.8.x",
+    "scripts": "file:./scripts"
+  }
 }
