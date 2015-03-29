@@ -1,9 +1,9 @@
 {
-  "name": "font-awesome-picker",
-  "main": "./lib/font-awesome-picker",
+  "name": "icon-font-picker",
+  "main": "./lib/icon-font-picker",
   "version": "0.0.0",
   "description": "Put Font Awesome icons in a document just by clicking.",
-  "repository": "https://github.com/travs/font-awesome-picker",
+  "repository": "https://github.com/travs/icon-font-picker",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"

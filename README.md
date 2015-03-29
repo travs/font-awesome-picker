@@ -1,10 +1,9 @@
-##font-awesome-picker
+##[icon-font-picker](https://atom.io/packages/icon-font-picker)
 
-###What it should do
+Insert icons from beautiful fonts into your document, just by clicking.
 
-The package should allow access to a panel similar to [color-picker](https://atom.io/packages/color-picker), but with a searchable, visual list of the FontAwesome icon font.
+##Usage
 
-When an icon is selected, the code for including the icon should be pasted into the editor, at the cursor's position.
+`Toggle` the popover and click the icon you want.
 
-Also, there should be some function or warning message about including font-awesome cdn or css in the project.
-This is not decided on yet.
+The icon's tag will be inserted into the document for you!

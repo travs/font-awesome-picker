@@ -2,19 +2,19 @@
 'context-menu':
   'atom-text-editor': [
     {
-      'label': 'Toggle font-awesome-picker'
-      'command': 'font-awesome-picker:toggle'
+      'label': 'Toggle icon-font-picker'
+      'command': 'icon-font-picker:toggle'
     }
   ]
 'menu': [
   {
     'label': 'Packages'
     'submenu': [
-      'label': 'font-awesome-picker'
+      'label': 'icon-font-picker'
       'submenu': [
         {
           'label': 'Toggle'
-          'command': 'font-awesome-picker:toggle'
+          'command': 'icon-font-picker:toggle'
         }
       ]
     ]
