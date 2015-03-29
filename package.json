@@ -3,19 +3,9 @@
   "main": "./lib/font-awesome-picker",
   "version": "0.0.0",
   "description": "Put Font Awesome icons in a document just by clicking.",
-  "activationCommands": {
-    "atom-workspace": "font-awesome-picker:toggle"
-  },
   "repository": "https://github.com/travs/font-awesome-picker",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
-  },
-  "dependencies": {
-    "jquery": "latest",
-    "bootstrap": "latest",
-    "loophole": "1.x.x",
-    "temp": "0.8.x",
-    "scripts": "file:./scripts"
   }
 }
