@@ -1,7 +1,7 @@
 {
   "name": "icon-font-picker",
   "main": "./lib/icon-font-picker",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Put Font Awesome icons in a document just by clicking.",
   "repository": "https://github.com/travs/icon-font-picker",
   "license": "MIT",
